@@ -2,6 +2,13 @@
   <span style="animation: fadeIn 2s;">Hello! I'm LOY Socheat</span>
 </p>
 
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+</style>
+
 <!--
 **LoySocheat/LoySocheat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
