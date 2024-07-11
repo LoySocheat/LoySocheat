@@ -1,4 +1,4 @@
-## Hi there 👋
+# ![Hello! I'm LOY Socheat](https://svgshare.com/i/ZhY.svg)
 
 <!--
 **LoySocheat/LoySocheat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
