@@ -1,4 +1,6 @@
-# ![Hello! I'm LOY Socheat](https://svgshare.com/i/ZhY.svg)
+<p style="font-size: 20px; font-weight: bold;">
+  <span style="animation: fadeIn 2s;">Hello! I'm LOY Socheat</span>
+</p>
 
 <!--
 **LoySocheat/LoySocheat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
