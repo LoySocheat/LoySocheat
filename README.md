@@ -4,3 +4,12 @@
   </p> 
   
 </div>
+<div>
+  <h2 align="center">Skills </h2>
+  
+  <details>
+    <summary>view</summary>
+    <div align="center">
+    </div>
+  </details>
+  </div>
